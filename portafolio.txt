@@ -1,0 +1,20 @@
+#Fornt End: react
+
+#Librerias
+- Styled components
+- React Device Detect
+
+#Fuentes
+- Logo: Kalam (Google fonts)
+    font weigth 300, 400, 700
+
+- H1: Poppins (Google fonts)
+    font weigth 100,200,300,500, 500 italic
+
+
+#Colores
+    Gris oscuro #515151;
+
+
+#Header Movil
+Heigth: 150px
